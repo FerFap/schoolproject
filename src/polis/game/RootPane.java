@@ -23,7 +23,7 @@ import prog2.util.Viewport;
 import static polis.Config.*;
 
 /**
- * In deze klasse worden alles aangemaakt voor het project dat nodig is voor het project.
+ * In deze klasse wordt alles aangemaakt voor het project dat nodig is voor het project.
  */
 
 public class RootPane extends StackPane {
